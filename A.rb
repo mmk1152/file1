@@ -1,2 +1,2 @@
-s = "stressed"
+s = "ABCDE"
 puts s.reverse
